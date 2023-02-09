@@ -1,0 +1,96 @@
+   0 whoami
+   1 pwd
+   2 cd
+   3 cd ..
+   4 1s
+   5 ls --help
+   6 ls
+   7 ls -l
+   8 ls -a
+   9 ls -la
+  10 cd /home/
+  11 pwd
+  12 mkdir user1
+  13 ls
+  14 cd /user1
+  15 cd user1
+  16 mkdir task1
+  17 cd task1
+  18 touch file1.txt
+  19 ls
+  20 cd ..
+  21 mkdir user2
+  22 ls
+  23 cd user2
+  24 mkdir task2
+  25 cd task2
+  26 touch file2.txt
+  27 cd /home
+  28 tree
+  29 tree /bin/
+  30 ls
+  31 ls -R
+  32 cd
+  33 mkdir /home/user3
+  34 ls home
+  35 ls /home
+  36 mkdir /home/user3/task3
+  37 ls /home
+  38 ls /home/user3
+  39 touch /home/user3/task3/file3.txt
+  40 pwd
+  41 mkdir /home/user4/task4/
+  42 mkdir -p /home/user4/task4
+  43 touch /home/user4/task4/fole4.txt
+  44 mv /home/user4/task4/fole4.txt /home/user4/task4/file4.txt
+  45 mkdir -p /home/user5/task5/ && touch /home/user5/task5/file5.txt 
+  46 tree /home
+  47 mkdir -p /home/user4/4.1 /home/user4/4.2 /tmp/ivan/123
+  48 tree /home/
+  49 clear
+  50 tree /home/
+  51 cp /home/user1/task1/file1.txt /tmp/
+  52 ls /tmp/
+  53 cp /home/user2/task2/file2.txt /tmp/1.txt
+  54 history | grep ivan
+  55 cp /home/user3 /tmp
+  56 cp -r /home/user3 /tmp
+  57 mv /home/user4/task4/file4.txt /tmp/123.txt
+  58 rmdir --help
+  59 rm --help
+  60 rm -r /tmp/file1.txt 
+  61 history > 09_02_first_commands_vol2.txt
+  62 export_file 09_02_first_commands_vol2.txt 
+  63 pwd
+  64 cd /home/
+  65 pwd
+  66 cd
+  67 whoami 
+  68 pwd
+  69 ls
+  70 cd /
+  71 ls
+  72 pwd
+  73 cd home
+  74 ls
+  75 cd /user4
+  76 cd user4
+  77 ls /tmp/
+  78 cd
+  79 cd /tmp
+  80 mkdir mydir
+  81 cd mydir/
+  82 mkdir test
+  83 cd
+  84 cd --hhelp 
+  85 cd --help
+  86 ls --help
+  87 mkdir /home/1 /opt/2 /etc/3 
+  88 history > 09_02_first_commands_vol2.txt
+  89 export_file 09_02_first_commands_vol2.txt 
+  90 сдуфк
+  91 clear
+  92 history
+  93 cat /proc/cpuinfo 
+  94 history
+  95 history > history.txt
